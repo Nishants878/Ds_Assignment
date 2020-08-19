@@ -32,5 +32,5 @@ const check_bracket = (str) =>{
         return str.indexOf(x[x.length - 1]) + 1
     }
  
-}
+};
 
